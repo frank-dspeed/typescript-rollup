@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:frank-dspeed/rollup.git
+	branch = typescript-rollup
+	commit = 2a097a809d7976d0684370fb14b61b3c2fa86bca
+	parent = 22dbf21326246c9e535336ee4a56021e496c57f5
+	method = merge
+	cmdver = 0.4.3
