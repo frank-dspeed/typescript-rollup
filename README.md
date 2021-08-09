@@ -4,7 +4,7 @@ Documentation Ideas Around TypeScript and Rollup (research)
 
 ## Exploring
 - typescript-rollup-resolve a resolver inside typescript that uses rollup and adds the result to the programm
-- rollup-typescript rollup injects its result into the typescript programm programatical.
+- rollup-typescript rollup injects its result into the typescript program programatical.
 - TypeScript and rollup share a Ast Model it would be great if rollup would use the same ast as typescript.
 
 ## Profit?
